@@ -1,0 +1,9 @@
+
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(ÒÔ Õıÿÿÿÿ8èûµÇ®.
+Z
+java:S1197,"8Move the array designator from the variable to the type.(ÌÿÛÿÿÿÿÿ8Âı˜®.
+]	java:S125"<This block of commented-out lines of code should be removed.(Î‡¡õüÿÿÿÿ8‹Ôåè®.
+f
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8øÈè®.
+X	java:S110"<This class has 6 parents which is greater than 5 authorized.(¹ÌîÖ8Âı˜®.

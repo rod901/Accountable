@@ -1,0 +1,14 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(õËƒ¨ûÿÿÿÿ8ë·¦‰°.
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ôÅß®.
+W	java:S125"<This block of commented-out lines of code should be removed.(æÍF8ë·¦‰°.
+]	java:S125%"<This block of commented-out lines of code should be removed.(ÓğŸµøÿÿÿÿ8¬Ëïè®.
+X	java:S125"<This block of commented-out lines of code should be removed.(ìïç¦8ë·¦‰°.
+]	java:S125*"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ8ë·¦‰°.
+]	java:S125"<This block of commented-out lines of code should be removed.(ø»±Şùÿÿÿÿ8ë·¦‰°.
+]	java:S125/"<This block of commented-out lines of code should be removed.(Ãò­üÿÿÿÿ8è·ôŞ®.
+X	java:S125!"<This block of commented-out lines of code should be removed.(ÚúØ¤8ë·¦‰°.
+’
+java:S1319-"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ëš¸ùÿÿÿÿ8µñåá®.
+{
+java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(²ÅÂüÿÿÿÿ8âÊÅè®.
